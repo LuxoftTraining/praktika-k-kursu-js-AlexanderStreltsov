@@ -1,0 +1,5 @@
+# логи
+*.log
+
+# npm модули
+node_modules
